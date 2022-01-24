@@ -5,7 +5,7 @@
 ## on Linux
 
 ```
-wget -qO- https://raw.githubusercontent.com/harry-cpp/code-nautilus/master/install.sh | bash
+wget -qO- https://raw.githubusercontent.com/blindfoldgroup/Schnell/main/install.sh | bash
 
 ```
 
