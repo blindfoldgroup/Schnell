@@ -17,8 +17,8 @@ rm -f ~/.local/share/nautilus-python/extensions/schnell-nautilus.py
 ```
 
 ## on Mac
-
+coming soon
 
 ## on Windows
 
-schnell automatically add `Open Schnell here` (Admin Mode too) after installation.
+schnell automatically add `Open Schnell here` (Admin Mode as well) after installation.
