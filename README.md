@@ -5,7 +5,7 @@
 ### Add 'Open in Schnell'
 
 ```
-wget -qO- https://raw.githubusercontent.com/blindfoldgroup/Schnell/main/install.sh | bash
+wget -qO- https://raw.githubusercontent.com/blindfoldgroup/Schnell/master/install.sh | bash
 ```
 
 ### Remove 'Open in Schnell'
