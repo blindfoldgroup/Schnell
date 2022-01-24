@@ -1,7 +1,5 @@
 # Schnell
 
-# OpenInSchnell
-
 ## on Linux
 
 ### Add 'Open in Schnell'
