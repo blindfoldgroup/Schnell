@@ -6,7 +6,6 @@
 
 ```
 wget -qO- https://raw.githubusercontent.com/blindfoldgroup/Schnell/main/install.sh | bash
-
 ```
 
 ### Remove 'Open in Schnell'
