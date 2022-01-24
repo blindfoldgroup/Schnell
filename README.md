@@ -4,12 +4,14 @@
 
 ## on Linux
 
+### Add 'Open in Schnell'
+
 ```
 wget -qO- https://raw.githubusercontent.com/blindfoldgroup/Schnell/main/install.sh | bash
 
 ```
 
-and then
+### Remove 'Open in Schnell'
 
 ```
 rm -f ~/.local/share/nautilus-python/extensions/schnell-nautilus.py
