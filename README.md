@@ -20,4 +20,4 @@ coming soon
 
 ## on Windows
 
-schnell automatically add `Open Schnell here` (Admin Mode as well) after installation.
+schnell automatically adds `Open Schnell here` (Admin Mode as well) after installation.
