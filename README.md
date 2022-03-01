@@ -15,8 +15,8 @@ rm -f ~/.local/share/nautilus-python/extensions/schnell-nautilus.py
 
 ```
 
-## on Mac
-### create an application using the following apple script in Automator. Save it as 'OpenInSchnell' or under any other name you like. Then go to Applications directory in finder and drag the newly created app to finder toolbar while holding command button. 
+## on MacOS
+### create an application using the following apple script in Automator. Save it as 'OpenInSchnell' or any other name as you like. Then go to Applications directory in finder and drag the newly created app to finder toolbar while holding command button. 
 
 ```
 tell application "Finder"
