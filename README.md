@@ -2,13 +2,13 @@
 
 ## on Linux
 
-### Add 'Open in Schnell'
+#### Add 'Open in Schnell'
 
 ```
 wget -qO- https://raw.githubusercontent.com/blindfoldgroup/Schnell/master/install.sh | bash
 ```
 
-### Remove 'Open in Schnell'
+#### Remove 'Open in Schnell'
 
 ```
 rm -f ~/.local/share/nautilus-python/extensions/schnell-nautilus.py
@@ -16,7 +16,7 @@ rm -f ~/.local/share/nautilus-python/extensions/schnell-nautilus.py
 ```
 
 ### on MacOS
-## create an application using the following apple script in Automator. Save it as 'OpenInSchnell' or any other name as you like. Then go to Applications directory in finder and drag the newly created app to finder toolbar while holding command button. 
+#### create an application using the following apple script in Automator. Save it as 'OpenInSchnell' or any other name as you like. Then go to Applications directory in finder and drag the newly created app to finder toolbar while holding command button. 
 
 ```
 tell application "Finder"
